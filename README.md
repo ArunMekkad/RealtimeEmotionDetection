@@ -5,13 +5,14 @@ This project uses a pre-trained model to detect emotions in real-time using webc
 ## Dependencies
 
 - OpenCV
+- Tensorflow
 - NumPy
 - Keras
 
 You can install the dependencies with the following command:
 
 ```bash
-pip install opencv-python numpy keras
+pip install opencv-python numpy keras tensorflow
 ```
 
 # Usage
